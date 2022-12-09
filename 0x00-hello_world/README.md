@@ -1,1 +1,1 @@
-Name
+Using puts()
